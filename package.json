@@ -11,12 +11,16 @@
     "url": "git+https://github.com/the-Natty/pkg-lib.git"
   },
   "keywords": [
-    "pkg"
+    "pkg",
+    "pkg-lib"
   ],
   "author": "the-Natty",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/the-Natty/pkg-lib/issues"
   },
-  "homepage": "https://github.com/the-Natty/pkg-lib#readme"
+  "homepage": "https://github.com/the-Natty/pkg-lib#readme",
+  "devDependencies": {
+    "loadsh": "^0.0.4"
+  }
 }
